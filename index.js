@@ -11,3 +11,11 @@ function add (x, y){
 };
 const result = add(2, 7);
 console.log(result);
+
+const Obj = {
+    name: 'Jobayer',
+    age: 19,
+    email: 'jobayerjoban0048@gmailcom,'
+
+};
+console.log(Obj);
